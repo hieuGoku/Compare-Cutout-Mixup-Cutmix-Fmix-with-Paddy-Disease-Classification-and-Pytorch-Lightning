@@ -120,6 +120,8 @@ Results after 100 epochs (run training.ipynb on colab)
 
 # References
 
+**Synthesized knowledge from:**
+
 https://towardsdatascience.com/cutout-mixup-and-cutmix-implementing-modern-image-augmentations-in-pytorch-a9d7db3074ad
 
 https://sarthakforwet.medium.com/cutmix-a-new-strategy-for-data-augmentation-bbc1c3d29aab
